@@ -1,0 +1,8 @@
+{
+    "commentTranslate.targetLanguage": "ar",
+    "files.associations": {
+        "*.excalidraw": "json",
+        "*.excalidrawlib": "json",
+        "iostream": "cpp"
+    }
+}
